@@ -1,8 +1,8 @@
 ## Hi! I am Gülfem ✨
-📚 Computer Engineering student at Celal Bayar University
-🤖 Passionate about Automation and AI Engineering, turning ideas into intelligent, functional systems
-👩🏻‍💻 Creating modern and elegant web experiences with React, Next.js, and AI-driven tools
-🌺 Blending creativity, aesthetics, and technology—because code can be both beautiful and powerful
+📚 Computer Engineering student at Celal Bayar University<br/>
+🤖 Passionate about Automation and AI Engineering, turning ideas into intelligent, functional systems<br/>
+👩🏻‍💻 Creating modern and elegant web experiences with React, Next.js, and AI-driven tools<br/>
+🌺 Blending creativity, aesthetics, and technology—because code can be both beautiful and powerful<br/>
 🧠 Constantly exploring new concepts, solving problems, and building meaningful digital experiences
 
 ## What I Do 👩🏻‍💻
